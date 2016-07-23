@@ -1,0 +1,2 @@
+# Djfastbot
+thinking
